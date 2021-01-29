@@ -1,0 +1,35 @@
+#color{
+    color: red;
+}
+
+#l_spacing{
+    letter-spacing: 10px;
+}
+
+#w_spacing{
+    word-spacing: 5px;
+}
+
+#indent{
+    text-indent: 30px;
+}
+
+#align{
+    text-align: right;
+}
+
+#decoration{
+    text-decoration: overline;
+}
+
+#transform{
+    text-transform: uppercase;
+}
+
+#height{
+    line-height: 0.8;
+}
+
+#shadow{
+    text-shadow: 5px 10px #3399cc;
+}

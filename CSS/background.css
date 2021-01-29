@@ -1,0 +1,25 @@
+#color{
+    background-color: red;
+}
+
+#image{
+    background-image: url(/image/a.png)
+}
+
+#repeat{
+    background-image: url(/image/a.png); 
+    background-repeat: repeat-y;
+}
+
+#position{
+    background-image: url(/image/a.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#attachment{
+    background-image: url(/image/a.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-attachment: fixed;
+}
